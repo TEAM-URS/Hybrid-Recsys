@@ -1,0 +1,496 @@
+﻿,title,rate,tags,address,review_address,url
+0,일산해수욕장,4.1,"해수욕장,해변",울산 동구 일산동,./review/일산해수욕장.csv,https://place.map.kakao.com/10745536
+1,태화강국가정원,4.4,국가정원,울산 중구 태화동 107,./review/태화강국가정원.csv,https://place.map.kakao.com/25039682
+2,대왕암공원 출렁다리,4.5,"관광,명소",울산 동구 일산동 905,./review/대왕암공원 출렁다리.csv,https://place.map.kakao.com/98916509
+3,자수정동굴나라,3.3,동굴,울산 울주군 상북면 자수정로 212 (우)44952,./review/자수정동굴나라.csv,https://place.map.kakao.com/8536905
+4,진하해수욕장,3.7,"해수욕장,해변",울산 울주군 서생면 진하리 307-2,./review/진하해수욕장.csv,https://place.map.kakao.com/8601041
+5,대왕암,4.7,바위,울산 동구 일산동 905-7,./review/대왕암.csv,https://place.map.kakao.com/11002879
+6,울산대공원,4.3,테마파크,울산 남구 대공원로 94 (우)44660,./review/울산대공원.csv,https://place.map.kakao.com/8030988
+7,공업탑,4.2,"탑,비석",울산 남구 신정동 720-4,./review/공업탑.csv,https://place.map.kakao.com/17110902
+8,태화강,4.4,강,울산 남구 신정동 1468,./review/태화강.csv,https://place.map.kakao.com/8621794
+9,태화강국가정원 십리대숲,4.4,숲,울산 중구 태화동 636,./review/태화강국가정원 십리대숲.csv,https://place.map.kakao.com/11581806
+10,장생포고래문화마을,3.7,"관광,명소",울산 남구 매암동 209-8,./review/장생포고래문화마을.csv,https://place.map.kakao.com/26435058
+11,명선도,3.3,섬,울산 울주군 서생면 진하리,./review/명선도.csv,https://place.map.kakao.com/11487047
+12,주전몽돌해변,4.0,"해수욕장,해변",울산 동구 주전동,./review/주전몽돌해변.csv,https://place.map.kakao.com/8069775
+13,간월재,4.7,"생태보존,서식지",울산 울주군 상북면 간월산길 614 (우)44952,./review/간월재.csv,https://place.map.kakao.com/11571813
+14,울산대교전망대,4.6,전망대,울산 동구 봉수로 155-1 (우)44022,./review/울산대교전망대.csv,https://place.map.kakao.com/26425406
+15,슬도,4.5,섬(내륙),울산 동구 방어동,./review/슬도.csv,https://place.map.kakao.com/8443142
+16,가지산,4.6,산,울산 울주군 상북면 덕현리 산 232-2,./review/가지산.csv,https://place.map.kakao.com/8118295
+17,영남알프스,3.6,"관광,명소",울산 울주군 상북면 알프스온천5길 103-8 (우)44952,./review/영남알프스.csv,https://place.map.kakao.com/14541211
+18,신불산,4.8,산,울산 울주군 상북면 등억알프스리 산 180,./review/신불산.csv,https://place.map.kakao.com/10524276
+19,울산 대곡리반구대암각화,4.5,문화유적,울산 울주군 언양읍 대곡리 991,./review/울산 대곡리반구대암각화.csv,https://place.map.kakao.com/11816400
+20,강동몽돌해변,4.0,"해수욕장,해변",울산 북구 산하동,./review/강동몽돌해변.csv,https://place.map.kakao.com/8156298
+21,작천정계곡,4.0,계곡,울산 울주군 삼남읍 교동리,./review/작천정계곡.csv,https://place.map.kakao.com/8071217
+22,국립신불산폭포자연휴양림,3.7,자연휴양림,울산 울주군 상북면 이천리 산 2,./review/국립신불산폭포자연휴양림.csv,https://place.map.kakao.com/736232390
+23,태화강동굴피아,2.8,동굴,울산 남구 신정동 1540-4,./review/태화강동굴피아.csv,https://place.map.kakao.com/862744623
+24,정자해수욕장,5.0,"해수욕장,해변",울산 북구 무룡동,./review/정자해수욕장.csv,https://place.map.kakao.com/25622489
+25,나사해수욕장,2.4,"해수욕장,해변",울산 울주군 서생면 나사리,./review/나사해수욕장.csv,https://place.map.kakao.com/10200748
+26,파래소폭포,4.3,폭포,울산 울주군 상북면 이천리,./review/파래소폭포.csv,https://place.map.kakao.com/8116037
+27,함월루,5.0,"관광,명소",울산 중구 함월1길 7 (우)44420,./review/함월루.csv,https://place.map.kakao.com/26984946
+28,철구소 계곡,4.6,계곡,울산 울주군 상북면 이천리 829,./review/철구소 계곡.csv,https://place.map.kakao.com/25086316
+29,발리온천개발,2.3,온천,울산 울주군 온양읍 상발2길 34 (우)44976,./review/발리온천개발.csv,https://place.map.kakao.com/26973714
+30,천황산,4.5,산,울산 울주군 상북면 이천리,./review/천황산.csv,https://place.map.kakao.com/8089427
+31,간월산,4.6,산,울산 울주군 상북면 등억알프스리 산 220-3,./review/간월산.csv,https://place.map.kakao.com/8629384
+32,영축산,4.0,산,울산 울주군 삼남읍 방기리 산 52,./review/영축산.csv,https://place.map.kakao.com/15174199
+33,가지산온천,1.5,온천,울산 울주군 상북면 운문로 48 (우)44901,./review/가지산온천.csv,https://place.map.kakao.com/8677173
+34,배내고개,0.0,고개,울산 울주군 상북면 양등리,./review/배내고개.csv,https://place.map.kakao.com/19157392
+35,울주언양읍성,4.0,"산성,성곽",울산 울주군 언양읍 동부리 291,./review/울주언양읍성.csv,https://place.map.kakao.com/10570989
+36,병영막창골목,4.0,먹자골목,울산 중구 남외동,./review/병영막창골목.csv,https://place.map.kakao.com/1224817552
+37,고헌산,5.0,산,울산 울주군 상북면 궁근정리 산 9,./review/고헌산.csv,https://place.map.kakao.com/8696706
+38,태화강국가정원 태화강전망대,3.0,전망대,울산 남구 남산로 223 (우)44621,./review/태화강국가정원 태화강전망대.csv,https://place.map.kakao.com/19237158
+39,선바위,3.6,바위,울산 울주군 범서읍 구영리 1073-1,./review/선바위.csv,https://place.map.kakao.com/25039531
+40,봉계한우불고기특구,0.0,먹자골목,울산 울주군 두동면 계명1길 1 (우)44914,리뷰 없음,https://place.map.kakao.com/14541077
+41,와우쥬 본점,4.2,실내동물원,울산 남구 대학로 164 웰츠타워 상가2층 214호 (우)44611,./review/와우쥬 본점.csv,https://place.map.kakao.com/27464225
+42,소망우체통,4.3,"관광,명소",울산 울주군 서생면 대송리 27-1,./review/소망우체통.csv,https://place.map.kakao.com/17360748
+43,문수산,4.9,산,울산 울주군 청량읍 율리 산 339,./review/문수산.csv,https://place.map.kakao.com/15166438
+44,강동화암주상절리,3.0,바위,울산 북구 산하동 952-1 일원,./review/강동화암주상절리.csv,https://place.map.kakao.com/8169485
+45,태화강국가정원 안내센터,4.0,관광안내소,울산 중구 태화동 667 2층,./review/태화강국가정원 안내센터.csv,https://place.map.kakao.com/1909102826
+46,울산디자인거리,5.0,테마거리,울산 남구 삼산동 1527-1,./review/울산디자인거리.csv,https://place.map.kakao.com/12264020
+47,서생포왜성,3.3,"산성,성곽",울산 울주군 서생면 서생리 711,./review/서생포왜성.csv,https://place.map.kakao.com/7944431
+48,무룡산,4.0,산,울산 북구 연암동 산 1-1,./review/무룡산.csv,https://place.map.kakao.com/7877625
+49,입화산 자연휴양림,0.0,자연휴양림,울산 중구 다운동 5,리뷰 없음,https://place.map.kakao.com/1835968760
+50,대왕별아이누리,4.5,테마파크,울산 동구 등대로 100 (우)44058,./review/대왕별아이누리.csv,https://place.map.kakao.com/1878241162
+51,범서온천 지지워터피아,3.5,워터테마파크,울산 울주군 범서읍 두동로 704 (우)44918,./review/범서온천 지지워터피아.csv,https://place.map.kakao.com/7897055
+52,울산향교,0.0,"향교,서당",울산 중구 명륜로 117 (우)44463,./review/울산향교.csv,https://place.map.kakao.com/8036086
+53,간월재 억새평원,4.7,"관광,명소",울산 울주군 상북면 등억알프스리 산 181,./review/간월재 억새평원.csv,https://place.map.kakao.com/18431057
+54,박상진의사 생가,4.3,"생가,고택",울산 북구 박상진5로 10 (우)44236,./review/박상진의사 생가.csv,https://place.map.kakao.com/7895004
+55,편백산림욕장,5.0,자연휴양림,울산 북구 달천동 산 170,./review/편백산림욕장.csv,https://place.map.kakao.com/17706759
+56,울산테마식물수목원,2.0,"수목원,식물원",울산 동구 쇠평길 33-1 (우)44001,./review/울산테마식물수목원.csv,https://place.map.kakao.com/8462734
+57,간절곶느린우체통,0.0,"관광,명소",울산 울주군 서생면 간절곶1길 1 (우)45015,리뷰 없음,https://place.map.kakao.com/1070001448
+58,울산들꽃학습원,5.0,"수목원,식물원",울산 울주군 범서읍 두산로 52 (우)44917,./review/울산들꽃학습원.csv,https://place.map.kakao.com/1205794093
+59,주전해수욕장,5.0,"해수욕장,해변",울산 동구 주전동,./review/주전해수욕장.csv,https://place.map.kakao.com/8074337
+60,울산병영성,4.8,"산성,성곽",울산 중구 서동 149-8,./review/울산병영성.csv,https://place.map.kakao.com/8457735
+61,태화강국가정원 만남의광장,0.0,광장,울산 중구 태화동 545-10,./review/태화강국가정원 만남의광장.csv,https://place.map.kakao.com/19199829
+62,신명정자해변,0.0,"해수욕장,해변",울산 북구 산하동 957,./review/신명정자해변.csv,https://place.map.kakao.com/1863460553
+63,솔개해수욕장,0.0,"해수욕장,해변",울산 울주군 서생면 진하리,./review/솔개해수욕장.csv,https://place.map.kakao.com/24961337
+64,신불산억새평원,4.3,"관광,명소",울산 울주군 삼남읍 가천리,./review/신불산억새평원.csv,https://place.map.kakao.com/18249887
+65,울산대공원 아쿠아시스,4.0,워터테마파크,울산 남구 대공원로 94 (우)44660,./review/울산대공원 아쿠아시스.csv,https://place.map.kakao.com/13323882
+66,무거천,4.7,하천,울산 남구 무거동,./review/무거천.csv,https://place.map.kakao.com/19418226
+67,신불산온천,1.0,온천,울산 울주군 상북면 알프스온천3길 16 (우)44952,./review/신불산온천.csv,https://place.map.kakao.com/8404055
+68,울산대공원 동물원,4.0,동물원,울산 남구 옥동 530,./review/울산대공원 동물원.csv,https://place.map.kakao.com/17563489
+69,죽림굴,5.0,문화유적,울산 울주군 상북면 이천리,./review/죽림굴.csv,https://place.map.kakao.com/18514639
+70,장생포모노레일,2.0,"관광,명소",울산 남구 장생포고래로 246 (우)44780,./review/장생포모노레일.csv,https://place.map.kakao.com/1330982705
+71,박제상유적지,2.0,유적지,울산 울주군 두동면 만화리 68,./review/박제상유적지.csv,https://place.map.kakao.com/7889764
+72,천전리각석,4.9,유적지,울산 울주군 두동면 천전리 산 210-2,./review/천전리각석.csv,https://place.map.kakao.com/11238934
+73,구영웰빙온천,2.0,온천,울산 울주군 범서읍 점촌6길 21 (우)44925,./review/구영웰빙온천.csv,https://place.map.kakao.com/13571227
+74,반구대,0.0,"관광,명소",울산 울주군 언양읍 대곡리 산 200-1,./review/반구대.csv,https://place.map.kakao.com/10395608
+75,십리대밭 은하수길,4.8,"관광,명소",울산 중구 태화동 636,./review/십리대밭 은하수길.csv,https://place.map.kakao.com/1492062305
+76,달천철장,5.0,유적지,울산 북구 달천동 1-7,./review/달천철장.csv,https://place.map.kakao.com/7813623
+77,강동해수온천,3.0,온천,울산 북구 동해안로 1418 (우)44233,./review/강동해수온천.csv,https://place.map.kakao.com/8640893
+78,태화강역광장,0.0,광장,울산 남구 삼산동 8-8,./review/태화강역광장.csv,https://place.map.kakao.com/11474923
+79,문수산탄산온천,2.9,온천,울산 남구 대학로 24 (우)44615,./review/문수산탄산온천.csv,https://place.map.kakao.com/8992122
+80,염포산,5.0,산,울산 동구 전하동 산 173,./review/염포산.csv,https://place.map.kakao.com/10644948
+81,철구소 출렁다리,1.0,"관광,명소",울산 울주군 상북면 이천리 산 82,./review/철구소 출렁다리.csv,https://place.map.kakao.com/1281340445
+82,바보사거리,4.0,테마거리,울산 남구 대학로94번길 8 (우)44611,./review/바보사거리.csv,https://place.map.kakao.com/19292107
+83,성남동보세거리,4.5,테마거리,울산 중구 성남동,./review/성남동보세거리.csv,https://place.map.kakao.com/26843712
+84,마근저수지,0.0,저수지,울산 울주군 서생면 화산리,리뷰 없음,https://place.map.kakao.com/11086900
+85,태화강억새군락지,3.8,"생태보존,서식지",울산 북구 명촌동 30,./review/태화강억새군락지.csv,https://place.map.kakao.com/25985344
+86,문수힐링피크닉장,4.0,"관광,명소",울산 남구 옥동 852,./review/문수힐링피크닉장.csv,https://place.map.kakao.com/25462092
+87,국립대운산치유의숲,4.5,숲,울산 울주군 온양읍 대운상대길 225-92 (우)44972,./review/국립대운산치유의숲.csv,https://place.map.kakao.com/2088104575
+88,울산동헌및내아,4.8,문화유적,울산 중구 동헌길 167 (우)44468,./review/울산동헌및내아.csv,https://place.map.kakao.com/27190134
+89,내원암계곡,4.5,계곡,울산 울주군 온양읍 운화리,./review/내원암계곡.csv,https://place.map.kakao.com/11353465
+90,간월산 자연휴양림,0.0,자연휴양림,울산 울주군 상북면 등억알프스로 607-15 (우)44952,./review/간월산 자연휴양림.csv,https://place.map.kakao.com/8126799
+91,언양향교,5.0,"향교,서당",울산 울주군 삼남읍 서향교1길 55 (우)44950,./review/언양향교.csv,https://place.map.kakao.com/10571669
+92,와항재,0.0,고개,울산 울주군 상북면 소호리 산 197-1,리뷰 없음,https://place.map.kakao.com/25325329
+93,울산 장생포고래광장,0.0,광장,울산 남구 매암동 210,리뷰 없음,https://place.map.kakao.com/758197087
+94,입화산,0.0,산,울산 중구 다운동,./review/입화산.csv,https://place.map.kakao.com/10746014
+95,쥬라리움 울산점,5.0,실내동물원,"울산 중구 종가로 313 2, 3층 (우)44538",./review/쥬라리움 울산점.csv,https://place.map.kakao.com/1073154493
+96,자드락숲,0.0,숲,울산 울주군 두서면 서하리 산 29-6,./review/자드락숲.csv,https://place.map.kakao.com/315755787
+97,봉대산,4.7,산,울산 동구 동부동 산 186,./review/봉대산.csv,https://place.map.kakao.com/7910140
+98,대왕암 관광안내소,0.0,관광안내소,울산 동구 등대로 95 대왕암공원관리사무소 1층 (우)44058,./review/대왕암 관광안내소.csv,https://place.map.kakao.com/330162590
+99,울산왜성,0.0,"산성,성곽",울산 중구 학성공원3길 54 (우)44528,./review/울산왜성.csv,https://place.map.kakao.com/12740309
+100,누리전망대,0.0,전망대,울산 북구 염포동 산 118,./review/누리전망대.csv,https://place.map.kakao.com/1865039845
+101,태화강국가정원 삼호지구,0.0,국가정원 지구,울산 남구 무거동 1,리뷰 없음,https://place.map.kakao.com/27377779
+102,울산큰애기집,0.0,"관광,명소",울산 중구 문화의거리 28 (우)44530,리뷰 없음,https://place.map.kakao.com/1349871294
+103,석계서원,0.0,서원,울산 울주군 웅촌면 대복동천로 160-12 (우)44963,./review/석계서원.csv,https://place.map.kakao.com/8372781
+104,신화예술인촌,0.0,"관광,명소",울산 남구 여천로80번길 15 (우)44766,./review/신화예술인촌.csv,https://place.map.kakao.com/23121769
+105,배내봉,4.0,산봉우리,울산 울주군 상북면 등억알프스로 607-15 (우)44952,./review/배내봉.csv,https://place.map.kakao.com/17469653
+106,해파랑길 5코스,1.0,도보여행,울산 울주군 온산읍 덕신리 535-1,./review/해파랑길 5코스.csv,https://place.map.kakao.com/26564184
+107,홍류폭포,5.0,폭포,울산 울주군 상북면 등억알프스리,./review/홍류폭포.csv,https://place.map.kakao.com/8178230
+108,작천정,0.0,"관광,명소",울산 울주군 삼남읍 교동리 1551-4,./review/작천정.csv,https://place.map.kakao.com/192532128
+109,작괘천계곡,4.0,계곡,울산 울주군 삼남읍 교동리 1551,./review/작괘천계곡.csv,https://place.map.kakao.com/18257327
+110,여천천,4.0,하천,울산 남구 신정동,./review/여천천.csv,https://place.map.kakao.com/25728228
+111,울산수목원,3.5,"수목원,식물원",울산 울주군 온양읍 운화리 1320-2,./review/울산수목원.csv,https://place.map.kakao.com/2025070744
+112,시계탑거리,4.0,테마거리,울산 중구 옥교동 275-15,./review/시계탑거리.csv,https://place.map.kakao.com/8440943
+113,팔각정,0.0,문화유적,울산 울주군 서생면 진하리,./review/팔각정.csv,https://place.map.kakao.com/8112598
+114,하기해수욕장,0.0,"해수욕장,해변",울산 동구 주전동,리뷰 없음,https://place.map.kakao.com/8127556
+115,매곡천,0.0,하천,울산 북구 매곡동 795-1,./review/매곡천.csv,https://place.map.kakao.com/25413275
+116,화동못,0.0,호수,울산 북구 화봉동,./review/화동못.csv,https://place.map.kakao.com/8155707
+117,명덕저수지,4.5,저수지,울산 동구 서부동,./review/명덕저수지.csv,https://place.map.kakao.com/15148142
+118,동대산,5.0,산,울산 북구 대안동 산 288-1,./review/동대산.csv,https://place.map.kakao.com/25214872
+119,죽전마을,0.0,"관광,명소",울산 울주군 상북면 이천리 산,리뷰 없음,https://place.map.kakao.com/19157386
+120,처용암,2.8,문화유적,울산 남구 황성동 668-1,./review/처용암.csv,https://place.map.kakao.com/8099598
+121,만석골저수지,2.5,저수지,울산 북구 달천동,./review/만석골저수지.csv,https://place.map.kakao.com/8290457
+122,울산어린이천문대,0.0,천문대,울산 울주군 범서읍 지지1길 100 (우)44918,./review/울산어린이천문대.csv,https://place.map.kakao.com/747625539
+123,약사동 제방유적전시관,0.0,문화유적,울산 중구 종가14길 22-28 (우)44546,./review/약사동 제방유적전시관.csv,https://place.map.kakao.com/27493621
+124,해파랑길 7코스,3.0,도보여행,울산 중구 학성동,./review/해파랑길 7코스.csv,https://place.map.kakao.com/26564186
+125,심청골,4.0,계곡,울산 북구 양정동,./review/심청골.csv,https://place.map.kakao.com/11110570
+126,영남알프스둘레길 1코스,0.0,영남알프스,울산 울주군 삼남읍 가천리 산 131-2,리뷰 없음,https://place.map.kakao.com/26563875
+127,왕방요,5.0,"도자기,도예촌",울산 울주군 삼동면 출강왕방길 122 (우)44956,./review/왕방요.csv,https://place.map.kakao.com/9273978
+128,울산곰장어골목,5.0,먹자골목,울산 중구 젊음의거리 107 (우)44531,./review/울산곰장어골목.csv,https://place.map.kakao.com/1214687981
+129,구량리은행나무,4.0,"생태보존,서식지",울산 울주군 두서면 구량리 860,./review/구량리은행나무.csv,https://place.map.kakao.com/7845220
+130,해파랑길 4코스,5.0,도보여행,부산 기장군 장안읍 임랑리 1-50,./review/해파랑길 4코스.csv,https://place.map.kakao.com/26564183
+131,숲속의작은친구들 울산곤충생태전시관,5.0,실내동물원,울산 울주군 상북면 재궁골길 42 (우)44903,./review/숲속의작은친구들 울산곤충생태전시관.csv,https://place.map.kakao.com/1798847314
+132,선바위유원지,5.0,유원지,울산 울주군 범서읍 입암리,./review/선바위유원지.csv,https://place.map.kakao.com/27210080
+133,언양읍성마을,0.0,테마거리,울산 울주군 언양읍 서부리,리뷰 없음,https://place.map.kakao.com/210325428
+134,살티순교성지,5.0,종교유적지,울산 울주군 상북면 덕현리 산 218-1,./review/살티순교성지.csv,https://place.map.kakao.com/1418594189
+135,언양장터,0.0,문화유적,울산 울주군 언양읍 남부리 287-1,리뷰 없음,https://place.map.kakao.com/26995780
+136,롯데꿈동산,0.0,테마파크,울산 남구 삼산로 288 7층 (우)44719,./review/롯데꿈동산.csv,https://place.map.kakao.com/735865257
+137,강동사랑길 1코스,0.0,도보여행,울산 북구 정자동,리뷰 없음,https://place.map.kakao.com/26564335
+138,주전봉수대,2.3,봉수대,울산 동구 주전동 산 193,./review/주전봉수대.csv,https://place.map.kakao.com/8074335
+139,울산대공원 메타세쿼이아길,4.5,테마파크,울산 남구 신정동 1723,./review/울산대공원 메타세쿼이아길.csv,https://place.map.kakao.com/981728487
+140,마골산,3.0,산,울산 동구 동부동 산 89,./review/마골산.csv,https://place.map.kakao.com/7870642
+141,청송사지삼층석탑,0.0,"탑,비석",울산 울주군 청량읍 율리 1420,./review/청송사지삼층석탑.csv,https://place.map.kakao.com/12753824
+142,두현저수지,3.8,저수지,울산 울주군 청량읍 문죽리,./review/두현저수지.csv,https://place.map.kakao.com/8270857
+143,차리저수지,0.0,저수지,울산 울주군 두서면 차리 375,리뷰 없음,https://place.map.kakao.com/23182152
+144,고연저수지,3.0,저수지,울산 울주군 웅촌면 고연리,./review/고연저수지.csv,https://place.map.kakao.com/8235995
+145,염포전망대,5.0,전망대,울산 북구 염포동 산 50-1,./review/염포전망대.csv,https://place.map.kakao.com/1753610805
+146,솔마루길 울산대공원산코스,0.0,솔마루길,울산 남구 선암동 산 208-4,리뷰 없음,https://place.map.kakao.com/18973437
+147,수운최제우유허지,5.0,유적지,울산 중구 원유곡길 106 (우)44413,./review/수운최제우유허지.csv,https://place.map.kakao.com/7970142
+148,영해마을제당 등산로입구,0.0,등산로,울산 울주군 청량읍 율리 산 30-1,리뷰 없음,https://place.map.kakao.com/1523379089
+149,신불산 1코스,4.0,등산로,울산 울주군 상북면 등억알프스리,./review/신불산 1코스.csv,https://place.map.kakao.com/27265854
+150,울산대공원 키즈테마파크,0.0,테마파크시설,울산 남구 옥동 산 138,./review/울산대공원 키즈테마파크.csv,https://place.map.kakao.com/275560716
+151,운문재,0.0,고개,울산 울주군 상북면 덕현리,리뷰 없음,https://place.map.kakao.com/25330965
+152,어물동마애여래좌상,0.0,"불상,석불",울산 북구 어물동 산 121,./review/어물동마애여래좌상.csv,https://place.map.kakao.com/10404392
+153,석남사계곡,5.0,계곡,울산 울주군 상북면 덕현리,./review/석남사계곡.csv,https://place.map.kakao.com/7946682
+154,백운산,0.0,산,울산 울주군 두서면 내와리 산 118,./review/백운산.csv,https://place.map.kakao.com/7885398
+155,화암추등대 전망데크 산책로,0.0,"관광,명소",울산 동구 방어동 958,리뷰 없음,https://place.map.kakao.com/925689989
+156,해파랑길 8코스,5.0,도보여행,울산 동구 화정동,./review/해파랑길 8코스.csv,https://place.map.kakao.com/26564187
+157,울산역 광장,0.0,광장,울산 울주군 삼남읍 신화리 89-2,리뷰 없음,https://place.map.kakao.com/586338446
+158,울산고래축제,0.0,"관광,명소",울산 남구 매암동 2320-1,리뷰 없음,https://place.map.kakao.com/26290316
+159,천곡저수지,0.0,저수지,울산 북구 천곡동,리뷰 없음,https://place.map.kakao.com/8092758
+160,은월봉,5.0,산봉우리,울산 남구 신정동 산 108,./review/은월봉.csv,https://place.map.kakao.com/24022609
+161,강동몽돌해변 드라이브코스,0.0,드라이브코스,울산 북구 산하동 311-1,리뷰 없음,https://place.map.kakao.com/690974139
+162,소호계곡,0.0,계곡,울산 울주군 상북면 소호리,리뷰 없음,https://place.map.kakao.com/27051189
+163,영남알프스둘레길 5코스,0.0,영남알프스,울산 울주군 두서면 내와리 476-1,리뷰 없음,https://place.map.kakao.com/26563879
+164,태화십리대밭먹거리단지,0.0,먹자골목,울산 중구 태화강국가정원길 61 (우)44439,리뷰 없음,https://place.map.kakao.com/18525824
+165,연화산,2.0,산,울산 울주군 두동면 은편리 산 51-3,./review/연화산.csv,https://place.map.kakao.com/8474330
+166,삼호연안다목적광장,0.0,광장,울산 남구 무거동 59-5,리뷰 없음,https://place.map.kakao.com/1164639453
+167,태화강국가정원 왕버들마당,0.0,국가정원,울산 중구 태화동 107,리뷰 없음,https://place.map.kakao.com/134270524
+168,천마산,0.0,산,울산 울주군 두서면 복안리 산 135-4,리뷰 없음,https://place.map.kakao.com/10847609
+169,울산광역시북구청 광장,0.0,광장,울산 북구 산업로 1010 (우)44248,리뷰 없음,https://place.map.kakao.com/12273680
+170,맨발의청춘길,3.0,테마거리,울산 중구 성남동 225-2,./review/맨발의청춘길.csv,https://place.map.kakao.com/1926513707
+171,지산소류지,0.0,저수지,울산 남구 두왕동 673-1,./review/지산소류지.csv,https://place.map.kakao.com/1465043624
+172,가천저수지,3.0,저수지,울산 울주군 삼남읍 가천리 270,./review/가천저수지.csv,https://place.map.kakao.com/8700860
+173,충의사,0.0,종교유적지,울산 중구 서원11길 25 (우)44512,리뷰 없음,https://place.map.kakao.com/17384616
+174,천황산 사자봉,0.0,산봉우리,울산 울주군 상북면 이천리 산 143-2,리뷰 없음,https://place.map.kakao.com/17605990
+175,무제치늪,0.0,"생태보존,서식지",울산 울주군 삼동면 조일리 산 427-2,리뷰 없음,https://place.map.kakao.com/7884570
+176,솔마루길 신선산코스,0.0,솔마루길,울산 남구 선암동 484,리뷰 없음,https://place.map.kakao.com/18973436
+177,솔마루길 01코스,0.0,솔마루길,울산 남구 신정동 산 107-2,리뷰 없음,https://place.map.kakao.com/26564344
+178,자수정동굴나라 동물원,0.0,동물원,울산 울주군 상북면 자수정로 212 (우)44952,./review/자수정동굴나라 동물원.csv,https://place.map.kakao.com/27168973
+179,못안못,0.0,저수지,울산 울주군 상북면 지내리,./review/못안못.csv,https://place.map.kakao.com/8345668
+180,울산대공원 현충탑,0.0,"탑,비석",울산 남구 신정동 산 158-2,리뷰 없음,https://place.map.kakao.com/24926114
+181,양정자동차테마거리,2.0,테마거리,울산 북구 양정동 603-25,./review/양정자동차테마거리.csv,https://place.map.kakao.com/645928987
+182,장암저수지,0.0,저수지,울산 중구 성안동 1302,./review/장암저수지.csv,https://place.map.kakao.com/835172213
+183,울산전파천문대,4.0,천문대,울산 남구 대학로 93 (우)44610,./review/울산전파천문대.csv,https://place.map.kakao.com/17565959
+184,수운최제우유허지 동학관,5.0,유적지,울산 중구 유곡동 623,./review/수운최제우유허지 동학관.csv,https://place.map.kakao.com/1415018118
+185,해파랑길 6코스,0.0,도보여행,울산 남구 신정동,리뷰 없음,https://place.map.kakao.com/26564185
+186,개운포성지,0.0,문화유적,울산 남구 성암동 423,./review/개운포성지.csv,https://place.map.kakao.com/8172640
+187,울산 학성이씨근재공고택,0.0,"생가,고택",울산 울주군 웅촌면 석천길 32-3 (우)44963,./review/울산 학성이씨근재공고택.csv,https://place.map.kakao.com/12771980
+188,영남알프스둘레길 4코스,0.0,영남알프스,울산 울주군 두서면 차리 산 14,리뷰 없음,https://place.map.kakao.com/26563878
+189,배내골,0.0,계곡,울산 울주군 상북면 이천리,./review/배내골.csv,https://place.map.kakao.com/25247099
+190,반용저수지,0.0,저수지,울산 울주군 범서읍 척과리,리뷰 없음,https://place.map.kakao.com/8326320
+191,신선산,5.0,산,울산 남구 선암동 산 7-11,./review/신선산.csv,https://place.map.kakao.com/25299834
+192,삽다리못,0.0,저수지,울산 울주군 두동면 월평리,리뷰 없음,https://place.map.kakao.com/7931967
+193,노랑바위,0.0,바위,울산 북구 어물동,리뷰 없음,https://place.map.kakao.com/11021223
+194,상개저수지,0.0,저수지,울산 남구 상개동 118,리뷰 없음,https://place.map.kakao.com/2033147435
+195,회야강,0.0,하천,울산 울주군 온산읍 덕신리,리뷰 없음,https://place.map.kakao.com/8164294
+196,호계천,0.0,하천,울산 북구 호계동 936-1,리뷰 없음,https://place.map.kakao.com/13015541
+197,인보저수지,0.0,저수지,울산 울주군 두서면 서하리,리뷰 없음,https://place.map.kakao.com/15150746
+198,영남알프스둘레길 2코스,0.0,영남알프스,울산 울주군 상북면 거리 1122-1,리뷰 없음,https://place.map.kakao.com/26563876
+199,해파랑길 9코스,4.0,도보여행,울산 동구 주전동,./review/해파랑길 9코스.csv,https://place.map.kakao.com/26564188
+200,신불산군립공원,5.0,군립공원,울산 울주군 상북면 등억알프스리,./review/신불산군립공원.csv,https://place.map.kakao.com/8441650
+201,JS오션 호텔앤리조트,0.0,테마파크,울산 북구 산하동 554-3,리뷰 없음,https://place.map.kakao.com/814687343
+202,선암호수공원길,0.0,드라이브코스,울산 남구 선암동 480,리뷰 없음,https://place.map.kakao.com/691336839
+203,태화강국가정원 태화지구,5.0,국가정원 지구,울산 중구 태화동 107,./review/태화강국가정원 태화지구.csv,https://place.map.kakao.com/1069492494
+204,대왕암공원 바닷가길,0.0,둘레길,울산 동구 일산동 905,리뷰 없음,https://place.map.kakao.com/291581693
+205,재약산 주암계곡,0.0,계곡,울산 울주군 상북면 이천리 산 143-2,리뷰 없음,https://place.map.kakao.com/25449972
+206,옹태저수지,1.0,저수지,울산 울주군 언양읍 태기리,./review/옹태저수지.csv,https://place.map.kakao.com/26988617
+207,운흥사지부도,0.0,"탑,비석",울산 울주군 웅촌면 고연리 1691-2,리뷰 없음,https://place.map.kakao.com/12740889
+208,천상저수지,0.0,저수지,울산 울주군 범서읍 천상6길 24-6 (우)44930,리뷰 없음,https://place.map.kakao.com/8092067
+209,간월사지,5.0,문화유적,울산 울주군 상북면 알프스온천4길 15 (우)44952,./review/간월사지.csv,https://place.map.kakao.com/27164396
+210,태화저수지,0.0,저수지,울산 중구 태화동,./review/태화저수지.csv,https://place.map.kakao.com/15149582
+211,반구서원,0.0,서원,울산 울주군 언양읍 반구대안길 299 (우)44913,./review/반구서원.csv,https://place.map.kakao.com/11253942
+212,아래황새못,0.0,저수지,울산 울주군 온산읍 삼평리,리뷰 없음,https://place.map.kakao.com/8413735
+213,신불재,0.0,바위,울산 울주군 삼남읍 가천리,./review/신불재.csv,https://place.map.kakao.com/19157381
+214,울산종합관광안내소,0.0,관광안내소,울산 남구 산업로 646 (우)44714,리뷰 없음,https://place.map.kakao.com/10789973
+215,울산중구문화의거리,5.0,테마거리,울산 중구 옥교동 277-1,./review/울산중구문화의거리.csv,https://place.map.kakao.com/23181596
+216,삼호곱창거리,0.0,먹자골목,울산 남구 무거동 1182-1,리뷰 없음,https://place.map.kakao.com/1254540902
+217,영남알프스둘레길 3코스,0.0,영남알프스,울산 울주군 상북면 산전리 1104-11,리뷰 없음,https://place.map.kakao.com/26563877
+218,화장굴,0.0,동굴,울산 울주군 언양읍 송대리,리뷰 없음,https://place.map.kakao.com/8171113
+219,유곡동공룡발자국화석,0.0,문화유적,울산 중구 유곡동 54-1,./review/유곡동공룡발자국화석.csv,https://place.map.kakao.com/26128344
+220,대암호,0.0,호수,울산 울주군 언양읍 구수리,리뷰 없음,https://place.map.kakao.com/7819560
+221,치산서원,0.0,서원,울산 울주군 두동면 치술령길 7 (우)44916,리뷰 없음,https://place.map.kakao.com/25027951
+222,남산전망대,4.0,전망대,울산 남구 신정동 산 107-2,./review/남산전망대.csv,https://place.map.kakao.com/19237163
+223,함월산,5.0,산,울산 중구 성안동 819-2,./review/함월산.csv,https://place.map.kakao.com/25393905
+224,허고개,0.0,고개,울산 울주군 범서읍 중리,리뷰 없음,https://place.map.kakao.com/25395273
+225,울산관광안내소,0.0,관광안내소,울산 남구 삼산로 288 (우)44719,리뷰 없음,https://place.map.kakao.com/26546323
+226,중산동고분군,0.0,"릉,묘,총",울산 북구 중산동 616-1,./review/중산동고분군.csv,https://place.map.kakao.com/11157728
+227,북정자,0.0,문화유적,울산 북구 정자동,./review/북정자.csv,https://place.map.kakao.com/7908656
+228,울주망해사지승탑,5.0,"탑,비석",울산 울주군 청량읍 망해2길 102 (우)44959,./review/울주망해사지승탑.csv,https://place.map.kakao.com/10339603
+229,오룡저수지,0.0,저수지,울산 울주군 언양읍 평리,리뷰 없음,https://place.map.kakao.com/8016177
+230,솔마루길 02코스,0.0,솔마루길,울산 남구 신정동 190,리뷰 없음,https://place.map.kakao.com/26564345
+231,대곡천,0.0,하천,울산 울주군 범서읍 사연리,리뷰 없음,https://place.map.kakao.com/11007910
+232,고래전망대,3.0,전망대,울산 남구 옥동 산 296,./review/고래전망대.csv,https://place.map.kakao.com/19237116
+233,영남알프스 하늘억새길 5구간(달오름길),0.0,영남알프스,울산 울주군 상북면 등억알프스리,리뷰 없음,https://place.map.kakao.com/18973442
+234,솔마루길 삼호산코스,0.0,솔마루길,울산 남구 옥동 산 91,리뷰 없음,https://place.map.kakao.com/18973434
+235,이휴정,4.0,문화유적,울산 남구 이휴정길 20 (우)44623,./review/이휴정.csv,https://place.map.kakao.com/11182194
+236,울산대공원 생태여행관,5.0,"수목원,식물원",울산 남구 옥동 354,./review/울산대공원 생태여행관.csv,https://place.map.kakao.com/17560235
+237,무룡산등산로,0.0,등산로,울산 북구 연암동,리뷰 없음,https://place.map.kakao.com/1198255528
+238,해맞이무릉도원,0.0,"관광,명소",울산 울주군 서생면 신암리 260,리뷰 없음,https://place.map.kakao.com/26300345
+239,울산공항 관광안내소,0.0,관광안내소,울산 북구 산업로 1103 1층 (우)44238,리뷰 없음,https://place.map.kakao.com/26916122
+240,간월공룡능선,4.0,산,울산 울주군 상북면 등억알프스리,./review/간월공룡능선.csv,https://place.map.kakao.com/1123476875
+241,솔마루길 03코스,0.0,솔마루길,울산 남구 옥동 산 138,리뷰 없음,https://place.map.kakao.com/26564346
+242,솔마루길 남산코스,0.0,솔마루길,울산 남구 신정동 산 110,리뷰 없음,https://place.map.kakao.com/18973435
+243,약사샘,0.0,"샘터,약수터",울산 중구 약사동 335,리뷰 없음,https://place.map.kakao.com/1728797157
+244,삼일사당,0.0,"사당,제단",울산 중구 병영성11길 25 (우)44485,리뷰 없음,https://place.map.kakao.com/7935014
+245,구남저수지,0.0,저수지,울산 북구 신현동,리뷰 없음,https://place.map.kakao.com/8191408
+246,영남알프스 하늘억새길 1구간(억새바람길),0.0,영남알프스,울산 울주군 삼남읍 가천리,리뷰 없음,https://place.map.kakao.com/18973438
+247,언양읍성안내소,2.5,관광안내소,울산 울주군 언양읍 읍성로 130 (우)44942,./review/언양읍성안내소.csv,https://place.map.kakao.com/1452073811
+248,가지산 입석대,4.7,바위,울산 울주군 상북면 덕현리,./review/가지산 입석대.csv,https://place.map.kakao.com/299415019
+249,울주검단리유적,0.0,유적지,울산 울주군 웅촌면 검단리 산 62,./review/울주검단리유적.csv,https://place.map.kakao.com/12776839
+250,언양지석묘,0.0,"릉,묘,총",울산 울주군 언양읍 웃방천4길 19 (우)44944,./review/언양지석묘.csv,https://place.map.kakao.com/8007101
+251,문수산등산코스,3.0,등산로,울산 울주군 범서읍 천상리 산 153,./review/문수산등산코스.csv,https://place.map.kakao.com/919422244
+252,막구지기 별빛광장,0.0,광장,울산 동구 일산동 1000,리뷰 없음,https://place.map.kakao.com/381830323
+253,외솔최현배선생 생가터,0.0,"생가,고택",울산 중구 병영12길 15 (우)44486,./review/외솔최현배선생 생가터.csv,https://place.map.kakao.com/12729541
+254,선창골못,4.0,호수,울산 북구 천곡동,./review/선창골못.csv,https://place.map.kakao.com/7946491
+255,구영저수지,0.0,저수지,울산 울주군 범서읍 구영리 103,리뷰 없음,https://place.map.kakao.com/15147905
+256,반구정,0.0,문화유적,울산 중구 반구동 297-1,리뷰 없음,https://place.map.kakao.com/27099938
+257,영남알프스 하늘억새길 2구간(단조성터길),0.0,영남알프스,울산 울주군 상북면 이천리,리뷰 없음,https://place.map.kakao.com/18973439
+258,울산방기리알바위,4.0,유적지,울산 울주군 삼남읍 방기리 444-5,./review/울산방기리알바위.csv,https://place.map.kakao.com/12772009
+259,여천천입구,0.0,하천,울산 남구 달동 766-1,리뷰 없음,https://place.map.kakao.com/358898838
+260,과개안,4.6,"해수욕장,해변",울산 동구 등대로 110 (우)44058,./review/과개안.csv,https://place.map.kakao.com/1234216407
+261,주전어촌체험마을 안내센터,0.0,관광안내소,울산 동구 새싹길 23 (우)44013,리뷰 없음,https://place.map.kakao.com/25968239
+262,울산꽃리단길,2.3,테마거리,울산 동구 방어동 1177,./review/울산꽃리단길.csv,https://place.map.kakao.com/2032077983
+263,성지골못,0.0,저수지,울산 울주군 온산읍 강양리,리뷰 없음,https://place.map.kakao.com/10472083
+264,두돌저수지,0.0,저수지,울산 울주군 두동면 봉계리,리뷰 없음,https://place.map.kakao.com/8277989
+265,주암계곡,0.0,계곡,울산 울주군 상북면 이천리,리뷰 없음,https://place.map.kakao.com/27052201
+266,관음저수지,0.0,저수지,울산 울주군 삼동면 둔기리,리뷰 없음,https://place.map.kakao.com/8665722
+267,뒷골못,0.0,저수지,울산 북구 시례동,리뷰 없음,https://place.map.kakao.com/8322728
+268,달천저수지,0.0,저수지,울산 북구 달천동 183-1,리뷰 없음,https://place.map.kakao.com/7813970
+269,관문성,0.0,"산성,성곽",울산 북구 중산동 산 11,./review/관문성.csv,https://place.map.kakao.com/25038110
+270,명덕호수공원 수변산책로,0.0,도보여행,울산 동구 서부동,리뷰 없음,https://place.map.kakao.com/26564349
+271,곽암,5.0,바위,울산 북구 구유동 판지마을 바다 속,./review/곽암.csv,https://place.map.kakao.com/8233304
+272,태화강역 울산관광안내소,0.0,관광안내소,울산 남구 산업로 654 2층 (우)44714,리뷰 없음,https://place.map.kakao.com/1459629045
+273,옥동저수지,0.0,저수지,울산 울주군 두서면 구량리,리뷰 없음,https://place.map.kakao.com/15148858
+274,자암서원,0.0,서원,울산 울주군 웅촌면 대복동천로 269-67 (우)44963,리뷰 없음,https://place.map.kakao.com/2072672204
+275,솔마루길 04코스,0.0,솔마루길,울산 남구 선암동 480,리뷰 없음,https://place.map.kakao.com/26564347
+276,위열공김취려의묘,5.0,"릉,묘,총",울산 울주군 언양읍 송대리 산 15,./review/위열공김취려의묘.csv,https://place.map.kakao.com/12706487
+277,신불산 칼바위 암봉,0.0,산봉우리,울산 울주군 상북면 등억알프스리 산 180,리뷰 없음,https://place.map.kakao.com/1799735137
+278,창평동지석묘군,0.0,"릉,묘,총",울산 북구 창평동 178,./review/창평동지석묘군.csv,https://place.map.kakao.com/12706752
+279,신천천,0.0,하천,울산 북구 신천동,리뷰 없음,https://place.map.kakao.com/10605065
+280,우리골못,0.0,저수지,울산 울주군 범서읍 두산리 319,리뷰 없음,https://place.map.kakao.com/10704839
+281,정자저수지,0.0,저수지,울산 북구 무룡동,리뷰 없음,https://place.map.kakao.com/8059652
+282,뒷골지,0.0,저수지,울산 울주군 두동면 구미리,리뷰 없음,https://place.map.kakao.com/7851521
+283,신불산 2코스,4.0,등산로,울산 울주군 삼남읍 가천리,./review/신불산 2코스.csv,https://place.map.kakao.com/27265862
+284,돋질산,4.2,산,울산 남구 여천동 산 36-11,./review/돋질산.csv,https://place.map.kakao.com/7834110
+285,신원봉,4.0,산봉우리,울산 울주군 상북면 덕현리 산 4-2,./review/신원봉.csv,https://place.map.kakao.com/664477473
+286,연암소류지,0.0,저수지,울산 북구 연암동,리뷰 없음,https://place.map.kakao.com/8013649
+287,장생포고래문화마을 고래광장,0.0,광장,울산 남구 매암동 210,./review/장생포고래문화마을 고래광장.csv,https://place.map.kakao.com/585241956
+288,호암만디,4.0,"관광,명소",울산 북구 가대동 산 82,./review/호암만디.csv,https://place.map.kakao.com/571173911
+289,황방산,5.0,산,울산 중구 장현동 산,./review/황방산.csv,https://place.map.kakao.com/26547069
+290,병산골못,0.0,저수지,울산 울주군 범서읍 천상리 866,리뷰 없음,https://place.map.kakao.com/10382485
+291,오두산,4.0,산,울산 울주군 상북면 양등리 산 142,./review/오두산.csv,https://place.map.kakao.com/25039049
+292,고무재골,0.0,계곡,울산 울주군 언양읍 어음리 11,리뷰 없음,https://place.map.kakao.com/25177223
+293,회야호,0.0,호수,울산 울주군 청량읍 중리,리뷰 없음,https://place.map.kakao.com/8184329
+294,대곡리공룡발자국화석,0.0,문화유적,울산 울주군 언양읍 대곡리 산 202,./review/대곡리공룡발자국화석.csv,https://place.map.kakao.com/790076517
+295,백천못,0.0,저수지,울산 울주군 범서읍 굴화리,리뷰 없음,https://place.map.kakao.com/8318330
+296,용골산,0.0,산,울산 울주군 서생면 용리 산 7-5,./review/용골산.csv,https://place.map.kakao.com/25327570
+297,울산웨딩거리,0.0,테마거리,울산 남구 삼산동,리뷰 없음,https://place.map.kakao.com/1077275518
+298,치술령,0.0,고개,울산 울주군 두동면 월평리 산 155,./review/치술령.csv,https://place.map.kakao.com/1864300516
+299,돈방바위,5.0,바위,울산 동구 미포동,./review/돈방바위.csv,https://place.map.kakao.com/7832561
+300,목도,4.3,섬,울산 울주군 온산읍 방도리 산 13,./review/목도.csv,https://place.map.kakao.com/12644302
+301,울산매곡동생활유적,0.0,유적지,울산 북구 매곡동 351-10,리뷰 없음,https://place.map.kakao.com/12729018
+302,화장산,0.0,산,울산 울주군 상북면 향산리 산 75,리뷰 없음,https://place.map.kakao.com/232980830
+303,남창천,0.0,하천,울산 울주군 온양읍 삼광리,./review/남창천.csv,https://place.map.kakao.com/25724928
+304,옥류천이야기길,0.0,도보여행,울산 동구 서부동,리뷰 없음,https://place.map.kakao.com/26563873
+305,명선교광장,0.0,광장,울산 울주군 서생면 진하리 산 60-15,리뷰 없음,https://place.map.kakao.com/1844313518
+306,울산 문수월드컵경기장 옥동저수지,0.0,저수지,울산 남구 옥동 1198,리뷰 없음,https://place.map.kakao.com/17579531
+307,옹기골도예,0.0,"도자기,도예촌",울산 울주군 온양읍 외고산길 18 (우)44970,리뷰 없음,https://place.map.kakao.com/9900163
+308,천전리 공룡발자국화석,5.0,문화유적,울산 울주군 두동면 천전리 산 210-2,./review/천전리 공룡발자국화석.csv,https://place.map.kakao.com/12624850
+309,터골못,0.0,저수지,울산 울주군 삼동면 금곡리,리뷰 없음,https://place.map.kakao.com/8107351
+310,옥동지,0.0,저수지,울산 북구 창평동 139,리뷰 없음,https://place.map.kakao.com/18324974
+311,청춘고복수길,0.0,테마거리,울산 중구 성남동 346,리뷰 없음,https://place.map.kakao.com/126891010
+312,학성동가구전문거리,0.0,테마거리,울산 중구 학성동 207-4,리뷰 없음,https://place.map.kakao.com/18097012
+313,동축사삼층석탑,0.0,"탑,비석",울산 동구 옥류로 93 (우)44000,./review/동축사삼층석탑.csv,https://place.map.kakao.com/7844703
+314,큰골못,0.0,저수지,울산 울주군 온양읍 대안리,리뷰 없음,https://place.map.kakao.com/10818120
+315,성모동굴,5.0,종교유적지,울산 울주군 언양읍 송대리 산 45-1,./review/성모동굴.csv,https://place.map.kakao.com/26532557
+316,유포석보,0.0,"산성,성곽",울산 북구 동해안로 1463-1 (우)44233,리뷰 없음,https://place.map.kakao.com/8033369
+317,만정헌,5.0,문화유적,울산 울주군 상북면 명촌1길 39 (우)44906,./review/만정헌.csv,https://place.map.kakao.com/7863274
+318,추성1지,1.0,저수지,울산 울주군 언양읍 직동리,./review/추성1지.csv,https://place.map.kakao.com/8548760
+319,영화루,0.0,문,울산 울주군 언양읍 성안1길 1 (우)44942,리뷰 없음,https://place.map.kakao.com/22303323
+320,창좌저수지,0.0,저수지,울산 북구 상안동,리뷰 없음,https://place.map.kakao.com/15147491
+321,솔마루길진입광장,0.0,숲,울산 남구 두왕로 94 (우)44774,리뷰 없음,https://place.map.kakao.com/19157393
+322,공리단길,0.0,테마거리,울산 남구 신정동 1234,리뷰 없음,https://place.map.kakao.com/1884075685
+323,심청골못,0.0,저수지,울산 북구 양정동,리뷰 없음,https://place.map.kakao.com/11115043
+324,수반못,0.0,저수지,울산 울주군 웅촌면 은현리,리뷰 없음,https://place.map.kakao.com/7961352
+325,화정천내봉수대,0.0,봉수대,울산 동구 봉수로 27-53 (우)44022,./review/화정천내봉수대.csv,https://place.map.kakao.com/11205914
+326,출강소류지,0.0,저수지,울산 울주군 삼동면 출강리,리뷰 없음,https://place.map.kakao.com/8555500
+327,자수정 동굴나라 허브식물원,0.0,"수목원,식물원",울산 울주군 상북면 자수정로 212 (우)44952,리뷰 없음,https://place.map.kakao.com/17580455
+328,동천,0.0,하천,울산 북구 진장동,./review/동천.csv,https://place.map.kakao.com/7846558
+329,길촌골,0.0,계곡,울산 중구 유곡동,./review/길촌골.csv,https://place.map.kakao.com/25190338
+330,백양사 칠성각,0.0,문화유적,울산 중구 백양로 67 (우)44422,./review/백양사 칠성각.csv,https://place.map.kakao.com/729016595
+331,입화산,0.0,산,울산 중구 다운동 산 47-1,./review/입화산.csv,https://place.map.kakao.com/231201350
+332,자수정동굴나라 놀이시설,5.0,테마파크시설,울산 울주군 상북면 자수정로 212 (우)44952,./review/자수정동굴나라 놀이시설.csv,https://place.map.kakao.com/17578419
+333,정글존,0.0,실내동물원,울산 남구 번영로250번길 9 울산세이브존 7층 (우)44696,리뷰 없음,https://place.map.kakao.com/2049624506
+334,옥동저수지,0.0,저수지,울산 남구 옥동 1190,리뷰 없음,https://place.map.kakao.com/916593715
+335,애기소폭포,2.5,계곡,울산 울주군 온양읍 운화리,./review/애기소폭포.csv,https://place.map.kakao.com/8010263
+336,아랫말저수지,0.0,저수지,울산 울주군 청량읍 율리,리뷰 없음,https://place.map.kakao.com/15147087
+337,천곡천,5.0,하천,울산 북구 천곡동,./review/천곡천.csv,https://place.map.kakao.com/25730205
+338,봉현재,0.0,"생가,고택",울산 북구 연암9길 16-1 (우)44246,리뷰 없음,https://place.map.kakao.com/1322017687
+339,김유신문화거리,1.7,테마거리,울산 남구 신정동 517,./review/김유신문화거리.csv,https://place.map.kakao.com/1864075862
+340,화산,5.0,산,울산 울주군 서생면 화산리,./review/화산.csv,https://place.map.kakao.com/10978755
+341,숯못저수지,4.0,호수,울산 중구 성안동,./review/숯못저수지.csv,https://place.map.kakao.com/7963269
+342,모골,0.0,계곡,울산 북구 신현동,리뷰 없음,https://place.map.kakao.com/25232285
+343,수문지,5.0,저수지,울산 울주군 청량읍 문죽리,./review/수문지.csv,https://place.map.kakao.com/7961341
+344,삼평저수지,0.0,저수지,울산 울주군 온산읍 삼평리,리뷰 없음,https://place.map.kakao.com/7877783
+345,오산못,0.0,저수지,울산 울주군 상북면 거리,리뷰 없음,https://place.map.kakao.com/8016657
+346,다운목장,0.0,"관광,명소",울산 중구 다운동 산 101,./review/다운목장.csv,https://place.map.kakao.com/1368274886
+347,은현리적석총,0.0,"릉,묘,총",울산 울주군 웅촌면 은현리 산 207-5,리뷰 없음,https://place.map.kakao.com/12706482
+348,산골못,0.0,저수지,울산 북구 매곡동,./review/산골못.csv,https://place.map.kakao.com/7913706
+349,노상산,0.0,산,울산 울주군 삼동면 조일리 산 110-1,리뷰 없음,https://place.map.kakao.com/8247727
+350,원동지,0.0,저수지,울산 울주군 온양읍 망양길 50 (우)44969,./review/원동지.csv,https://place.map.kakao.com/8024925
+351,서생나사봉수대,0.0,봉수대,울산 울주군 서생면 나사리 산 36,리뷰 없음,https://place.map.kakao.com/12699673
+352,상박골못,0.0,저수지,울산 남구 두왕동 551-2,리뷰 없음,https://place.map.kakao.com/7922755
+353,명정천,0.0,하천,울산 중구 태화동 681-1,./review/명정천.csv,https://place.map.kakao.com/1438905416
+354,망해저수지,0.0,저수지,울산 울주군 청량읍 율리 207,리뷰 없음,https://place.map.kakao.com/15149170
+355,용잠저수지,0.0,저수지,울산 남구 용잠동,리뷰 없음,https://place.map.kakao.com/8033130
+356,하태평못,0.0,저수지,울산 울주군 두서면 구량리,리뷰 없음,https://place.map.kakao.com/8142291
+357,태화강나룻배,0.0,"관광,명소",울산 남구 남산로 223 (우)44621,리뷰 없음,https://place.map.kakao.com/803442298
+358,국수봉,2.0,산봉우리,울산 울주군 범서읍 척과리 산 157-1,./review/국수봉.csv,https://place.map.kakao.com/8200884
+359,큰마을저수지,0.0,저수지,울산 동구 서부동,./review/큰마을저수지.csv,https://place.map.kakao.com/10820723
+360,암곡저수지,0.0,저수지,울산 울주군 웅촌면 검단리,리뷰 없음,https://place.map.kakao.com/15148552
+361,용곡산,0.0,산,울산 울주군 서생면 위양리 산 8,리뷰 없음,https://place.map.kakao.com/24022291
+362,가정저수지,0.0,저수지,울산 울주군 두서면 활천리,리뷰 없음,https://place.map.kakao.com/15148975
+363,삼박골못,0.0,저수지,울산 울주군 온양읍 망양길 50 (우)44969,리뷰 없음,https://place.map.kakao.com/8094049
+364,울산대학교 식물원,0.0,"수목원,식물원",울산 남구 대학로 93 (우)44610,리뷰 없음,https://place.map.kakao.com/17564548
+365,수정내저수지,0.0,저수지,울산 울주군 두서면 전읍리,리뷰 없음,https://place.map.kakao.com/10551546
+366,탑골저수지,0.0,저수지,울산 울주군 청량읍 삼정리,리뷰 없음,https://place.map.kakao.com/15150689
+367,양호단,0.0,문화유적,울산 울주군 청량읍 양천1길 24-9 (우)44964,리뷰 없음,https://place.map.kakao.com/1532668502
+368,토성도예예술촌,0.0,"도자기,도예촌",울산 북구 황토전길 139-1 (우)44235,리뷰 없음,https://place.map.kakao.com/16399742
+369,황감1지,0.0,저수지,울산 울주군 언양읍 평리,리뷰 없음,https://place.map.kakao.com/10973625
+370,강동사랑길 2코스,4.0,도보여행,울산 북구 구유동,./review/강동사랑길 2코스.csv,https://place.map.kakao.com/26564336
+371,사촌저수지,0.0,저수지,울산 울주군 삼동면 하잠리,리뷰 없음,https://place.map.kakao.com/10445441
+372,봉대산,1.0,산,울산 남구 남화동 산 39-3,./review/봉대산.csv,https://place.map.kakao.com/8363573
+373,천전리각석계곡,0.0,계곡,울산 울주군 두동면 천전리,./review/천전리각석계곡.csv,https://place.map.kakao.com/12639217
+374,세정스파,0.0,온천,울산 울주군 웅촌면 정주권로 108-7 (우)44965,리뷰 없음,https://place.map.kakao.com/709731580
+375,ABS스포츠스파,0.0,온천,울산 북구 화봉로 58 (우)44242,리뷰 없음,https://place.map.kakao.com/9583478
+376,서생소류지,0.0,저수지,울산 울주군 서생면 서생리 81,리뷰 없음,https://place.map.kakao.com/10497244
+377,울산대공원 핑크뮬리정원,0.0,"관광,명소",울산 남구 신정동 1037,./review/울산대공원 핑크뮬리정원.csv,https://place.map.kakao.com/81283092
+378,문필봉,4.5,산,울산 울주군 상북면 덕현리 산 165-1,./review/문필봉.csv,https://place.map.kakao.com/453107860
+379,울주교동리생활유적,0.0,유적지,울산 울주군 삼남읍 교동리 192-37,리뷰 없음,https://place.map.kakao.com/12729017
+380,선돌바위,3.0,바위,울산 북구 신명동,./review/선돌바위.csv,https://place.map.kakao.com/8371156
+381,혜촌농원,0.0,관광농원,울산 울주군 상북면 소호리,리뷰 없음,https://place.map.kakao.com/11882296
+382,곰네저수지,5.0,저수지,울산 울주군 웅촌면 곡천리,./review/곰네저수지.csv,https://place.map.kakao.com/15149737
+383,점골저수지,0.0,저수지,울산 남구 무거동,리뷰 없음,https://place.map.kakao.com/15147909
+384,골안못,0.0,저수지,울산 울주군 범서읍 굴화리,./review/골안못.csv,https://place.map.kakao.com/8203484
+385,온산이주민망향비,0.0,"탑,비석",울산 울주군 온산읍 화산리 869,리뷰 없음,https://place.map.kakao.com/940701473
+386,양등지,0.0,저수지,울산 울주군 상북면 양등리,./review/양등지.csv,https://place.map.kakao.com/10583468
+387,낭골저수지,0.0,저수지,울산 북구 창평동,리뷰 없음,https://place.map.kakao.com/8247985
+388,명촌천,0.0,하천,울산 북구 명촌동,리뷰 없음,https://place.map.kakao.com/25725999
+389,우가산유포봉수대,0.0,봉수대,울산 북구 당사동 230,./review/우가산유포봉수대.csv,https://place.map.kakao.com/12699671
+390,간월사지 석조여래좌상,5.0,"불상,석불",울산 울주군 상북면 알프스온천4길 15 (우)44952,./review/간월사지 석조여래좌상.csv,https://place.map.kakao.com/8135944
+391,우가산,1.0,산,울산 북구 구유동 산 138-3,./review/우가산.csv,https://place.map.kakao.com/8470976
+392,팜핑레이크관광농원,5.0,관광농원,울산 울주군 서생면 마근1길 22-47 (우)45012,./review/팜핑레이크관광농원.csv,https://place.map.kakao.com/56120923
+393,담뒤저수지,0.0,저수지,울산 울주군 웅촌면 은현리,리뷰 없음,https://place.map.kakao.com/15148424
+394,소골못,0.0,저수지,울산 울주군 온산읍 화산리,리뷰 없음,https://place.map.kakao.com/7954436
+395,보은저수지,0.0,저수지,울산 울주군 삼동면 보은리,리뷰 없음,https://place.map.kakao.com/11075303
+396,청량천,0.0,하천,울산 울주군 청량읍 상남리,./review/청량천.csv,https://place.map.kakao.com/25730290
+397,상안천,0.0,하천,울산 북구 상안동,리뷰 없음,https://place.map.kakao.com/25727002
+398,풍암골,0.0,계곡,울산 중구 성안동,리뷰 없음,https://place.map.kakao.com/25388842
+399,지경바위,0.0,바위,울산 동구 미포동,리뷰 없음,https://place.map.kakao.com/8077473
+400,다운동고분군,0.0,유적지,울산 중구 다운동 산 47,./review/다운동고분군.csv,https://place.map.kakao.com/8294730
+401,운흥사지,0.0,문화유적,울산 울주군 웅촌면 고연리 산 175,./review/운흥사지.csv,https://place.map.kakao.com/8029999
+402,남목마성,0.0,"산성,성곽",울산 동구 동부동 산 187-1,./review/남목마성.csv,https://place.map.kakao.com/10194570
+403,파군산,2.0,산,울산 북구 대안동 산 222-2,./review/파군산.csv,https://place.map.kakao.com/296183132
+404,동화정사,0.0,"사당,제단",울산 북구 화산2길 24 (우)44236,리뷰 없음,https://place.map.kakao.com/612862325
+405,영천못,0.0,저수지,울산 울주군 웅촌면 대복리,리뷰 없음,https://place.map.kakao.com/8484479
+406,새터소류지,0.0,저수지,울산 울주군 온산읍 처용리,리뷰 없음,https://place.map.kakao.com/7930369
+407,동사대고개,0.0,고개,울산 울주군 서생면 신암리,리뷰 없음,https://place.map.kakao.com/10296946
+408,하와이 집밥,0.0,먹자골목,울산 중구 성남동 219-141,리뷰 없음,https://place.map.kakao.com/27257640
+409,기백이재,0.0,고개,울산 북구 매곡동,리뷰 없음,https://place.map.kakao.com/8237151
+410,성암동 패총,0.0,"릉,묘,총",울산 남구 성암동 451-4,리뷰 없음,https://place.map.kakao.com/12729063
+411,밝얼산,4.0,산,울산 울주군 상북면 거리 산 135-1,./review/밝얼산.csv,https://place.map.kakao.com/17469336
+412,박제상유적지 치산서원,0.0,"생가,고택",울산 울주군 두동면 치술령길 7 (우)44916,리뷰 없음,https://place.map.kakao.com/17580850
+413,찬물내기약수터,0.0,"샘터,약수터",울산 북구 양정동 산 40-1,리뷰 없음,https://place.map.kakao.com/482133616
+414,무학산,0.0,산,울산 울주군 범서읍 망성리 산 115,리뷰 없음,https://place.map.kakao.com/11063441
+415,고헌정,0.0,문화유적,울산 울주군 언양읍 구수리,리뷰 없음,https://place.map.kakao.com/8193456
+416,다래농원,0.0,관광농원,울산 울주군 온양읍 내광리 667-1,리뷰 없음,https://place.map.kakao.com/84687812
+417,생태습지,0.0,"생태보존,서식지",울산 울주군 웅촌면 통천리 26,./review/생태습지.csv,https://place.map.kakao.com/1667189581
+418,용바위,0.0,바위,울산 북구 어물동,리뷰 없음,https://place.map.kakao.com/8525372
+419,학산서원,0.0,"사당,제단",울산 중구 신기16길 15 (우)44453,리뷰 없음,https://place.map.kakao.com/593265492
+420,복안저수지,0.0,저수지,울산 울주군 두서면 미호리,리뷰 없음,https://place.map.kakao.com/10380545
+421,앞들,0.0,계곡,울산 울주군 두서면 인보리,리뷰 없음,https://place.map.kakao.com/25312296
+422,태화동전망대,5.0,전망대,울산 중구 태화동 46,./review/태화동전망대.csv,https://place.map.kakao.com/748523776
+423,울산문화공원 중앙광장,0.0,광장,울산 남구 번영로 200 (우)44702,리뷰 없음,https://place.map.kakao.com/27587957
+424,울산대공원 연꽃연못,0.0,연못,울산 남구 신정동 1764,리뷰 없음,https://place.map.kakao.com/18049602
+425,영취산,0.0,산,울산 남구 무거동 산 77-1,./review/영취산.csv,https://place.map.kakao.com/8487859
+426,남암산,0.0,산,울산 울주군 청량읍 율리 산 290-6,./review/남암산.csv,https://place.map.kakao.com/8232010
+427,불광산,0.0,산,울산 울주군 온양읍 운화리 산 159-1,리뷰 없음,https://place.map.kakao.com/568521437
+428,고운산,1.5,산,울산 울주군 상북면 산전리 산 1,./review/고운산.csv,https://place.map.kakao.com/25177937
+429,태화강,0.0,강,울산 중구 옥교동,./review/태화강.csv,https://place.map.kakao.com/25730496
+430,태화강국가정원 오산못,0.0,연못,울산 중구 태화동 669,리뷰 없음,https://place.map.kakao.com/19201544
+431,영축산,0.0,산,울산 울주군 청량읍 율리 산 72,./review/영축산.csv,https://place.map.kakao.com/198983810
+432,강동사랑길 3코스,0.0,도보여행,울산 북구 구유동 산 16-13,리뷰 없음,https://place.map.kakao.com/26564337
+433,장등못,0.0,호수,울산 북구 매곡동,리뷰 없음,https://place.map.kakao.com/8539267
+434,신암천,0.0,하천,울산 울주군 서생면 신암리,리뷰 없음,https://place.map.kakao.com/25727782
+435,묵장산,0.0,산,울산 울주군 두동면 월평리 산 40,리뷰 없음,https://place.map.kakao.com/25236943
+436,대복큰,0.0,저수지,울산 울주군 웅촌면 대복리,리뷰 없음,https://place.map.kakao.com/8099488
+437,지내리지석묘,0.0,"릉,묘,총",울산 울주군 상북면 지내리 22,리뷰 없음,https://place.map.kakao.com/8078471
+438,내고산,0.0,산,울산 울주군 온양읍 고산리,리뷰 없음,https://place.map.kakao.com/8255581
+439,해운폭포,3.0,폭포,울산 울주군 서생면 서생리,./review/해운폭포.csv,https://place.map.kakao.com/8162895
+440,전천재 경주최씨 사성공파 재당,5.0,문화유적,울산 울주군 두서면 활천2길 105 (우)44910,./review/전천재 경주최씨 사성공파 재당.csv,https://place.map.kakao.com/977460435
+441,언양부로산봉수대,0.0,봉수대,울산 울주군 삼남읍 교동리 산 90,./review/언양부로산봉수대.csv,https://place.map.kakao.com/7996301
+442,입화산참살이숲 누리길 2코스,0.0,도보여행,울산 중구 다운동,리뷰 없음,https://place.map.kakao.com/26564078
+443,태화강,0.0,하천,울산 중구 성남동,./review/태화강.csv,https://place.map.kakao.com/25730504
+444,대안천,0.0,하천,울산 북구 대안동,리뷰 없음,https://place.map.kakao.com/25725322
+445,용굴,0.0,동굴,울산 동구 일산동 905-7,./review/용굴.csv,https://place.map.kakao.com/27064233
+446,매봉재,3.0,고개,울산 북구 연암동,./review/매봉재.csv,https://place.map.kakao.com/25229665
+447,무제산,5.0,산,울산 북구 호계동 산 44,./review/무제산.csv,https://place.map.kakao.com/248102679
+448,반정저수지,0.0,저수지,울산 울주군 청량읍 삼정리,리뷰 없음,https://place.map.kakao.com/15148193
+449,고래못,0.0,저수지,울산 울주군 두동면 이전리,리뷰 없음,https://place.map.kakao.com/8195917
+450,중산동취락유적,0.0,유적지,울산 북구 중산동 656-1,./review/중산동취락유적.csv,https://place.map.kakao.com/12729044
+451,간절곶소망길 1코스,0.0,도보여행,울산 울주군 서생면 진하리 산 56-8,리뷰 없음,https://place.map.kakao.com/26564350
+452,큰마을저수지,0.0,저수지,울산 남구 테크노산업로29번길 50 (우)44776,./review/큰마을저수지.csv,https://place.map.kakao.com/8100306
+453,화장산,0.0,산,울산 울주군 청량읍 중리 산 187-2,리뷰 없음,https://place.map.kakao.com/8171114
+454,영남알프스,0.0,산,울산 울주군 상북면 덕현리 산 232-2,./review/영남알프스.csv,https://place.map.kakao.com/26996937
+455,시간도쉬어가는곳,0.0,관광농원,울산 울주군 두동면 구미리 527-1,리뷰 없음,https://place.map.kakao.com/11589577
+456,삼호산,0.0,산,울산 남구 옥동 산 116-19,리뷰 없음,https://place.map.kakao.com/25269065
+457,고헌산 용샘,0.0,"샘터,약수터",울산 울주군 두서면 차리,./review/고헌산 용샘.csv,https://place.map.kakao.com/19783097
+458,석남사부도,0.0,"탑,비석",울산 울주군 상북면 석남로 557 석남사 (우)44901,./review/석남사부도.csv,https://place.map.kakao.com/8381788
+459,우직골못,0.0,저수지,울산 울주군 온산읍 강양리,./review/우직골못.csv,https://place.map.kakao.com/8021346
+460,봉화산,0.0,산,울산 울주군 서생면 나사리 산 36,./review/봉화산.csv,https://place.map.kakao.com/7896664
+461,자연과아이들수목원,5.0,"수목원,식물원",울산 울주군 상북면 거리지곡2길 7 (우)44907,./review/자연과아이들수목원.csv,https://place.map.kakao.com/23909481
+462,걷고싶은중구둘레길 1코스,0.0,도보여행,울산 울주군 범서읍 구영리 산 181-1,리뷰 없음,https://place.map.kakao.com/26564341
+463,달곡지,0.0,저수지,울산 북구 무룡동,리뷰 없음,https://place.map.kakao.com/8209769
+464,태화강100리길 2코스,0.0,도보여행,울산 울주군 언양읍 대곡리 산 130,리뷰 없음,https://place.map.kakao.com/26558730
+465,동화산,0.0,산,울산 북구 화봉동 산 30,리뷰 없음,https://place.map.kakao.com/7852316
+466,용리저수지,0.0,저수지,울산 울주군 서생면 용리,리뷰 없음,https://place.map.kakao.com/8013263
+467,저승골,0.0,계곡,울산 울주군 상북면 등억알프스리,./review/저승골.csv,https://place.map.kakao.com/854354023
+468,원강서원,0.0,서원,울산 울주군 삼동면 대밭길 37 (우)44958,리뷰 없음,https://place.map.kakao.com/1949090448
+469,병영산성,4.5,"산성,성곽",울산 중구 동동,./review/병영산성.csv,https://place.map.kakao.com/7895565
+470,멀티캐릭터테마파크 1호점,0.0,테마파크,울산 남구 삼산로 217 뉴코아아울렛울산점 11층 (우)44703,리뷰 없음,https://place.map.kakao.com/20195771
+471,솔마루정,1.0,"관광,명소",울산 남구 옥동 산 91,./review/솔마루정.csv,https://place.map.kakao.com/19237106
+472,반천천,0.0,하천,울산 울주군 언양읍 반천리 1023-26,리뷰 없음,https://place.map.kakao.com/25726245
+473,대왕암길,5.0,도보여행,울산 동구 일산동 산 45,./review/대왕암길.csv,https://place.map.kakao.com/26564410
+474,동백소류지,0.0,저수지,울산 울주군 웅촌면 검단리,리뷰 없음,https://place.map.kakao.com/8279769
+475,윗황새못,0.0,저수지,울산 울주군 온산읍 삼평리,리뷰 없음,https://place.map.kakao.com/8476256
+476,용암정,0.0,문화유적,울산 울주군 범서읍 구영로 31-43 (우)44920,리뷰 없음,https://place.map.kakao.com/8030792
+477,설못,5.0,저수지,울산 울주군 범서읍 입암리,./review/설못.csv,https://place.map.kakao.com/7948607
+478,아리랑릿지,5.0,등산로,울산 울주군 삼남읍 방기리,./review/아리랑릿지.csv,https://place.map.kakao.com/934627212
+479,솔고개못,3.0,저수지,울산 울주군 범서읍 천상리 533,./review/솔고개못.csv,https://place.map.kakao.com/10553466
+480,서덕출공원 입구광장,0.0,광장,울산 중구 푸름4길 27 (우)44469,리뷰 없음,https://place.map.kakao.com/27601475
+481,골안저수지,0.0,저수지,울산 울주군 언양읍 반송리,리뷰 없음,https://place.map.kakao.com/15147930
+482,봉태산,0.0,산,울산 울주군 서생면 명산리 산 82,리뷰 없음,https://place.map.kakao.com/25255279
+483,상방저수지,0.0,저수지,울산 울주군 삼남읍 방기리 산 72,./review/상방저수지.csv,https://place.map.kakao.com/7931284
+484,시리바위,0.0,바위,울산 북구 어물동,리뷰 없음,https://place.map.kakao.com/7971042
+485,상수골못,0.0,저수지,울산 울주군 청량읍 문죽리,리뷰 없음,https://place.map.kakao.com/7928764
+486,울산큰애기 관광안내소,0.0,관광안내소,울산 중구 문화의거리 28 1층 (우)44530,리뷰 없음,https://place.map.kakao.com/1083686428
+487,약사골,0.0,계곡,울산 중구 약사동,리뷰 없음,https://place.map.kakao.com/25313825
+488,울산항일독립운동기념탑,5.0,"탑,비석",울산 남구 달동 497-10,./review/울산항일독립운동기념탑.csv,https://place.map.kakao.com/2016555153
+489,복안천,0.0,하천,울산 울주군 두서면 활천리,./review/복안천.csv,https://place.map.kakao.com/10380546
+490,걷고싶은중구둘레길 2코스,0.0,도보여행,울산 울주군 범서읍 서사리 산 58,리뷰 없음,https://place.map.kakao.com/26564342
+491,율리영축사지,0.0,종교유적지,울산 울주군 청량읍 율리 822,리뷰 없음,https://place.map.kakao.com/12746917
+492,도깨비도로,0.0,"관광,명소",울산 울주군 상북면 등억알프스리,리뷰 없음,https://place.map.kakao.com/14678784
+493,산음소류지,0.0,저수지,울산 북구 산하동,리뷰 없음,https://place.map.kakao.com/7904382
+494,영남알프스종주코스,5.0,등산로,울산 울주군 상북면 등억알프스리 산 220-1,./review/영남알프스종주코스.csv,https://place.map.kakao.com/1611077013
