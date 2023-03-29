@@ -1,0 +1,21 @@
+version: "3"
+
+services:
+  reverse-proxy:
+    container_name: reverse-proxy
+    image: reverse-proxy
+    ports:
+      - "80:80"
+      - "433:433"
+    restart: always
+    depends_on:
+      - front
+    volumes:
+      - "./nginx/nginx.conf:/etc/nginx/nginx.conf"
+
+  front:
+    container_name: front
+    image: front
+    expose:
+      - "3000"
+    restart: always
