@@ -2,7 +2,7 @@
 
 ## 1. Project Abstract
 
-[Ulsan Recsys Platform](https://github.com/TEAM-URS/Ulsan-Recsys-Web)에 사용된 하이브리드추천시스템
+[Ulsan Recsys Platform](https://github.com/TEAM-URS/Ulsan-Recsys-Web)에 사용된 하이브리드추천시스템<br>
 카카오/구글지도에서 수집한 데이터를 바탕으로 콘텐츠기반필터링과 협업필터리의 결과를 가중합하는 하이브리드 추천시스템을 구현하였다.
 
 ### Team URS
