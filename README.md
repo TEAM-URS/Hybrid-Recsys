@@ -27,7 +27,7 @@
 - Tensorflow2.10
 - surprise-python
 
-## Hybird Recsys Diagram
+## 4. Hybird Recsys Diagram
 ![image](https://github.com/TEAM-URS/Hybrid-Recsys/assets/97018869/300504b8-6a1a-4cf7-aa09-459b485786e8)
 
 
