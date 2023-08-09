@@ -30,15 +30,20 @@
 ## 4. Hybird Recsys Diagram
 ![image](https://github.com/TEAM-URS/Hybrid-Recsys/assets/97018869/300504b8-6a1a-4cf7-aa09-459b485786e8)
 
+## 5. NCF model Architecture
+![image](https://github.com/TEAM-URS/Hybrid-Recsys/assets/97018869/f871beaf-930d-48e7-949b-ff6badcc1203)
 
-## 5. Equipment & Software
+## 6. Equipment & Software
 - [OS] :Ubuntu 20.04
 - [GPU] : CUDA 11.4, NVIDIA RTX A6000
 - [Framework] : Tensorflow2.10
 - [Collaboration Tool] Git-hub, Notion, Google-meet
 - [IDE] : Visual Studio, Anaconda
 
-## 6. License
+## 7. Reference
+https://arxiv.org/abs/1708.05031
+
+## 8. License
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
